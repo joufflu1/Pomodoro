@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>pad.js</file>
+        <file>tomato2.png</file>
+        <file>338.wav</file>
+        <file>346.wav</file>
+    </qresource>
+</RCC>
