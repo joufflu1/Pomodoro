@@ -7,4 +7,4 @@ It must be used as educational purpose only as the sounds and images have been t
 
 Sources :
 
-Source code for buzzing the window has been taken from : Ariya Hidayat blog (thanks !) http://ariya.ofilabs.com/2005/12/buzz-or-shake-my-window.html 
+Source code for buzzing the window has been taken from : Ariya Hidayat blog (Thanks !) http://ariya.ofilabs.com/2005/12/buzz-or-shake-my-window.html 
